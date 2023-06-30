@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "auto grade test",
+      "setup": "pip install pytest",
+      "run": "pytest test_travel.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
